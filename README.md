@@ -1,3 +1,8 @@
+> [!CAUTION]
+>
+> This repo was part of the dependencies for the [old edge device (UED)](https://github.com/Stabl-Energy/Rust-SBC-Client).
+> It is archived as it is no longer needed.
+
 # Postcard
 
 [![Documentation](https://docs.rs/postcard/badge.svg)](https://docs.rs/postcard)
